@@ -1,7 +1,7 @@
 #include <RCSwitch.h>
 
 // Des constantes
-const int switchPin = 6;  // bouton poussoir tour moteur
+const int switchPin = 6;  // bouton poussoir pour un tour moteur
 const int switchMoteurPin = 7;     // Le Pin du switch sur l'axe de rotation
 const int moteurPin = 8;  // le moteur
 const int RCPin = 2; //Le PIN du RC 433Mhz (doit etre 2)
